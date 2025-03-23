@@ -1,0 +1,14 @@
+Saludos Prof, a continuacion adjunto las credenciales del sistema:
+
+Usuario: ronaldo
+Contraseña: 123
+
+Entiendo que por temas de seguridad debemos cifrar las contraseñas sin embargo aun no hemos realizado ese cifrado, ademas qué actualmente estamos utilizando un unico usuaio que seria el caso del nivel de acceso del SuperUsuario. Estos usuarios los manejamos mediante los permisos (1,2,3) los mismos se van a validar en el template para que sean visibles o no los modulos admitidos al usuario que ingresa.
+
+Hasta los momentos lo que necesitamos realizar es una bitacora, y generar reportes, de entradas, salidas, ventas, facturas, entre otros reportes. Ademas aun no he agregado el modulo de Proovedores y Categoria. (voy a montarme en ello sin embargo por la premura le envío lo que llevamos hasta los momentos)
+
+Agradecido de antemano.
+
+Atentamente,
+Ronaldo Castillo
+0414-7411816
